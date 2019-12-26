@@ -1,5 +1,1 @@
-<dependency>
-      <groupId>me.youngsil</groupId>
-      <artifactId>inject</artifactId>
-      <version>1.0-SNAPSHOT</version>
-</dependency>
+java의 inject기능을 Class 객체를 사용하여 간단하게 구현
